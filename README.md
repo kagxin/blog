@@ -3,6 +3,6 @@
 
 
 * 请移步 https://github.com/kagxin/blog/issues
-* 旧博客 https://my.oschina.net/u/2255341/blog
+* 旧博客 https://my.oschina.net/u/2255341/
 
 
